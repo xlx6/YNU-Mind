@@ -34,7 +34,7 @@
 ```bash
 YNU-Mind
 ├── README.md            # 项目文档
-├── data/               # 数据爬取及处理模块
+├── docs/               # 数据爬取及处理模块
 ├── images/             # 项目图片资源
 ├── open-webui-main/    # 前端工程目录
 │   └── backend/        # 前端服务端
