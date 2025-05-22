@@ -1,0 +1,38 @@
+[
+  {
+    "question": "同时在信息学院2202上课的老师有哪些（列出5个）？他们教授的课程是什么？（列出5个）",
+    "intention": "neo4j",
+    "level": "hard",
+    "answer": "暂未找到相关信息。",
+    "errors": [
+      "[KG Error] 同时在信息学院2202上课的老师有哪些（列出5个）？: list indices must be integers or slices, not str"
+    ],
+    "routing_result": {
+      "question": [
+        "同时在信息学院2202上课的老师有哪些（列出5个）？",
+        "他们教授的课程是什么？（列出5个）"
+      ],
+      "type": [
+        "neo4j",
+        "neo4j"
+      ]
+    },
+    "routing_time": 1.3744866847991943,
+    "neo4j": [
+      {
+        "question": "同时在信息学院2202上课的老师有哪些（列出5个）？",
+        "content": "[KG Error] list indices must be integers or slices, not str",
+        "time": 5.070209503173828
+      },
+      {
+        "question": "他们教授的课程是什么？（列出5个）",
+        "content": [],
+        "cypher": "MATCH (p:Person)-[:TAUGHT_BY]->(cs:CourseSession)-[:OFFERED_AS]->(c:Course)\nRETURN DISTINCT c\nLIMIT 5",
+        "time": 1.0088379383087158
+      }
+    ],
+    "vector": [],
+    "open": [],
+    "answer_time": 0.5755805969238281
+  }
+]

@@ -1,0 +1,358 @@
+// 1. 创建大学主节点
+CREATE (ynu:University {
+  university_id: "YNU",
+  name: "云南大学",
+  established_year: 1922,
+  motto: "自尊 致知 正义 力行",
+  spirit: "会泽百家，至公天下",
+  colleges: 29,
+  research_institutes: 8,
+  affiliated_hospital: 1,
+  affiliated_high_school: 1,
+  undergraduates: 18000,
+  postgraduates: 19000,
+  international_students: 1000,
+  total_faculty: 3500,
+  doctoral_programs: 22,
+  master_programs: 43,
+  phone: "0871-65031141",
+  email: "ynu@ynu.edu.cn",
+  website: "https://www.ynu.edu.cn"
+})
+RETURN ynu;
+
+// 2. 添加校区节点
+MATCH (u:University {university_id: "YNU"})
+WITH u, [
+  {campus_id: "CG", name: "呈贡校区", address: "昆明市呈贡区大学城东外环南路", area_size: "4016亩"},
+  {campus_id: "DL", name: "东陆校区", address: "昆明市五华区翠湖北路2号", area_size: "351亩"}
+] AS campuses
+UNWIND campuses AS campus
+CREATE (c:Campus {
+  campus_id: campus.campus_id,
+  name: campus.name,
+  address: campus.address,
+  area_size: campus.area_size
+})-[:BELONGS_TO]->(u);
+
+// 3. 添加关键成就
+MATCH (u:University {university_id: "YNU"})
+WITH u, [
+  "中国首批42所‘双一流’建设高校",
+  "国家‘211工程’重点建设大学",
+  "民族学、生态学学科全国前7%"
+] AS achievements
+UNWIND achievements AS achievement
+CREATE (u)-[:HAS_ACHIEVEMENT]->(:Achievement {description: achievement});
+
+// 4. 添加重点学科
+MATCH (u:University {university_id: "YNU"})
+WITH u, ["民族学", "生态学", "统计学", "生物与生物医药", "边疆问题和区域国别研究"] AS disciplines
+UNWIND disciplines AS discipline
+CREATE (u)-[:HAS_KEY_DISCIPLINE]->(:Discipline {name: discipline});
+
+// 5. 添加排名信息
+WITH [
+  {name: "211工程", is_member: true},
+  {name: "双一流", is_member: true},
+  {name: "软科", rank: 70},
+  {name: "USNews", rank: 822},
+  {name: "校友会", rank: 90}
+] AS rankings
+UNWIND rankings AS ranking
+CREATE (r:Ranking {
+  name: ranking.name,
+  is_member: COALESCE(ranking.is_member, false),
+  rank: ranking.rank
+});
+
+// 关联大学与排名
+MATCH (u:University {university_id: "YNU"}), (r:Ranking)
+WHERE r.name IN ["211工程", "双一流", "软科", "USNews", "校友会"]
+CREATE (u)-[:HAS_RANKING]->(r);
+
+// 6. 添加历史里程碑
+MATCH (u:University {university_id: "YNU"})
+WITH u, [
+  {year: 1922, event: "建校，初名私立东陆大学"},
+  {year: 1934, event: "更名为省立云南大学"},
+  {year: 1938, event: "改为国立云南大学"},
+  {year: 1946, event: "被《不列颠百科全书》列为中国15所在世界最具影响的大学之一"},
+  {year: 1978, event: "被国务院确定为全国88所重点大学之一"},
+  {year: 1996, event: "首批列入国家‘211工程’重点建设大学"},
+  {year: 2017, event: "入选国家首批42所‘双一流’建设高校"},
+  {year: 2023, event: "习近平总书记致信祝贺云南大学建校100周年"}
+] AS milestones
+UNWIND milestones AS milestone
+CREATE (u)-[:HAS_MILESTONE]->(:Milestone {year: milestone.year, event: milestone.event});
+
+// 7. 添加教职工与领导层
+MATCH (u:University {university_id: "YNU"})
+CREATE (:Person:Faculty {name: "熊庆来", role: "著名数学家、教育家，曾任校长"})-[:WORKED_AT]->(u);
+
+WITH [
+  {name: "张亚平", position: "名誉校长"},
+  {name: "周学斌", position: "党委书记"},
+  {name: "马文会", position: "校长"},
+  {name: "陈克清", position: "副校长"},
+  {name: "廖炼忠", position: "副校长"},
+  {name: "吴涧", position: "副校长"},
+  {name: "段兴武", position: "副校长"},
+  {name: "唐年胜", position: "副校长"},
+  {name: "杨绍军", position: "副校长"}
+] AS leaders
+UNWIND leaders AS leader
+CREATE (l:Person:Leader {
+  name: leader.name,
+  position: leader.position
+});
+
+// 关联领导层到大学
+MATCH (u:University {university_id: "YNU"}), (l:Person:Leader)
+CREATE (l)-[:SERVES_AS]->(u);
+
+// 8. 添加学术资源
+MATCH (u:University {university_id: "YNU"})
+CREATE (lib:Library {
+  collection: "445万册",
+  equipment_value: "20亿元"
+})
+CREATE (u)-[:HAS_LIBRARY]->(lib);
+
+
+// 0. 获取呈贡校区节点
+MATCH (campus:Campus {campus_id: "CG"})
+
+// 1. 创建学院主节点并关联校区
+CREATE (college:College {
+  name: "信息学院",
+  established: "1998年4月（2015年12月合并云南省电子计算中心）",
+  philosophy: "以人为本、教书育人，求是务实、博学创新",
+  website: "http://www.ise.ynu.edu.cn/"
+})-[:BELONGS_TO]->(campus)
+RETURN college;
+
+// 2. 添加领导团队
+MATCH (college:College {name: "信息学院"})
+WITH college, [
+  {position: "党委书记", name: "赵征鹏", role: "全面负责党委工作"},
+  {position: "党委副书记", name: "谭明川", role: "负责学生工作"},
+  {position: "院长", name: "张学杰", role: "全面负责行政工作"},
+  {position: "副院长", name: "岳昆", role: "科研、学科建设"},
+  {position: "副院长", name: "普园媛", role: "本科生教学、教学实验室管理"},
+  {position: "副院长", name: "聂仁灿", role: "双一流项目建设、资产管理、外事及安全稳定"},
+  {position: "副院长", name: "王津", role: "研究生培养及学位点建设"}
+] AS leaders
+UNWIND leaders AS leader
+CREATE (p:Person:Leader {
+  name: leader.name,
+  position: leader.position,
+  responsibility: leader.role
+})-[:HOLDS_POSITION]->(college);
+
+// 3. 构建教学科研体系
+MATCH (college:College {name: "信息学院"})
+WITH college, [
+  "计算机科学与工程系", "通信工程系", "信息与电子工程系", "物联网工程系",
+  "智能科学与技术系", "实验中心", "公共计算机教学部", "高性能计算中心"
+] AS departments
+UNWIND departments AS dept
+CREATE (college)-[:HAS_DEPARTMENT]->(:Department {name: dept});
+
+// 科研平台
+MATCH (college:College {name: "信息学院"})
+WITH college, [
+  {name: "云南省发改委工程实验室", level: "省级"},
+  {name: "5个云南省高校重点实验室", level: "省级"},
+  {name: "2个昆明市重点实验室", level: "市级"}
+] AS platforms
+UNWIND platforms AS p
+CREATE (college)-[:HAS_PLATFORM]->(:Platform {name: p.name, level: p.level});
+
+// 4. 专业设置
+MATCH (college:College {name: "信息学院"})
+WITH college, [
+  {name: "计算机科学与技术", level: "国家级特色专业+国家级一流本科专业"},
+  {name: "通信工程", level: "国家级一流本科专业"},
+  {name: "电子信息工程"},
+  {name: "物联网工程"},
+  {name: "智能科学与技术"}
+] AS programs
+UNWIND programs AS program
+CREATE (college)-[:HAS_PROGRAM]->(:AcademicProgram {
+  name: program.name,
+  level: COALESCE(program.level, "未标明"),
+  type: "本科"
+});
+
+// 研究生培养
+MATCH (college:College {name: "信息学院"})
+WITH college, ["信息与通信工程", "计算机科学与技术"] AS phd_programs
+UNWIND phd_programs AS phd
+CREATE (college)-[:HAS_PROGRAM]->(:AcademicProgram {name: phd, type: "博士点"});
+
+MATCH (college:College {name: "信息学院"})
+WITH college, ["计算机科学与技术", "信息与通信工程", "生物医学工程", "控制科学与工程"] AS master_programs
+UNWIND master_programs AS master
+CREATE (college)-[:HAS_PROGRAM]->(:AcademicProgram {name: master, type: "硕士点"});
+
+// 5. 科研成果
+MATCH (college:College {name: "信息学院"})
+CREATE (research:ResearchAchievement {
+  projects_total: 200,
+  nsfc_projects: 60,
+  funding: 6800,
+  awards: ["教育部自然科学奖", "吴文俊人工智能奖等10余项"],
+  papers: 600,
+  patents: 60,
+  monographs: 30
+})
+CREATE (college)-[:HAS_ACHIEVEMENT]->(research);
+
+// 6. 合作交流
+MATCH (college:College {name: "信息学院"})
+WITH college, ["华为", "腾讯", "中兴等共建联合实验室"] AS partners
+UNWIND partners AS partner
+CREATE (college)-[:COLLABORATES_WITH]->(:Collaboration {name: partner, type: "校企合作"});
+
+MATCH (college:College {name: "信息学院"})
+CREATE (defense:Collaboration {
+  name: "国防人才培养",
+  details: "培养500余名武警国防生",
+  type: "国防建设"
+})
+CREATE (college)-[:COOPERATES_WITH]->(defense);
+
+// 7. 发展目标
+MATCH (college:College {name: "信息学院"})
+WITH college, [
+  "西部一流的信息技术人才培养基地",
+  "产学研融合高地",
+  "边疆信息技术转化桥头堡"
+] AS goals
+UNWIND goals AS goal
+CREATE (college)-[:HAS_GOAL]->(:Goal {description: goal});
+
+
+// 1. 创建软件学院主节点并关联校区
+MATCH (campus:Campus {campus_id: "CG"})
+CREATE (college:College {
+  name: "软件学院",
+  established: "2002年",
+  description: "云南大学国家示范性软件学院，国家示范性软件学院之一，培养国际化、工程型人才。",
+  website: "https://www.ynu.edu.cn",
+  research_centers: ["教育部跨境网络空间安全工程中心", "云南省软件工程重点实验室", "云南省云计算工程研究中心", "云南省高校数据科学与智能计算重点实验室", "昆明市数据科学与智能计算重点实验室"]
+})-[:BELONGS_TO]->(campus)
+RETURN college;
+
+// 2. 添加学院领导团队
+MATCH (college:College {name: "软件学院"})
+WITH college, [
+  {position: "院长", name: "杨云"},
+  {position: "党委副书记", name: "许佳"},
+  {position: "副院长", name: "谢诚"},
+  {position: "副院长", name: "蔡莉"},
+  {position: "副院长", name: "刘金卓"}
+] AS leaders
+UNWIND leaders AS leader
+CREATE (p:Person:Leader {
+  name: leader.name,
+  position: leader.position
+})-[:HOLDS_POSITION]->(college);
+
+// 3. 创建学院各系
+MATCH (college:College {name: "软件学院"})
+WITH college, [
+  {name: "软件工程系", phone: "0871-65931551", office: "软件学院楼A座1105室"},
+  {name: "网络工程系", phone: "0871-65931551", office: "软件学院楼A座1103室"},
+  {name: "信息安全系", phone: "0871-65931551", office: "软件学院楼A座1102室"},
+  {name: "数字媒体技术系", phone: "0871-65931551", office: "软件学院楼A座1103室"}
+] AS departments
+UNWIND departments AS dept
+CREATE (college)-[:HAS_DEPARTMENT]->(:Department {
+  name: dept.name,
+  phone: dept.phone,
+  office: dept.office
+});
+
+// 4. 创建实验中心
+MATCH (college:College {name: "软件学院"})
+WITH college
+CREATE (college)-[:HAS_LAB]->(:Lab {
+  name: "软件工程省级实验教学示范中心",
+  office: "软件学院A座1205室",
+  phone: "0871-65931534"
+});
+
+// 5. 创建学院机关
+MATCH (college:College {name: "软件学院"})
+WITH college, [
+  {name: "教务办公室", phone: "0871-65931540", office: "软件学院楼A座1309室"},
+  {name: "党政办公室", phone: "0871-65931551", office: "软件学院楼A座1305室"},
+  {name: "研究生办公室", phone: "0871-65931540", office: "软件学院楼A座1309室"},
+  {name: "学工办公室", phone: "0871-65931551", office: "软件学院楼A座1107室"}
+] AS offices
+UNWIND offices AS office
+CREATE (college)-[:HAS_OFFICE]->(:Office {
+  name: office.name,
+  phone: office.phone,
+  office: office.office
+});
+
+// 6. 创建本科专业
+MATCH (college:College {name: "软件学院"})
+WITH college, [
+  {name: "软件工程", level: "国家和省级卓越工程师培养计划"},
+  {name: "数字媒体技术", level: "国家和省级卓越工程师培养计划"},
+  {name: "网络空间安全", level: "国家级特色及卓越工程师培养计划"},
+  {name: "人工智能", level: "2021年新增"}
+] AS programs
+UNWIND programs AS program
+CREATE (college)-[:HAS_PROGRAM]->(:AcademicProgram {
+  name: program.name,
+  level: program.level,
+  type: "本科"
+});
+
+// 7. 创建研究生专业
+MATCH (college:College {name: "软件学院"})
+WITH college, [
+  {name: "软件工程", type: "学术型硕士"},
+  {name: "网络空间安全", type: "学术型硕士"},
+  {name: "软件工程", type: "专业硕士"}
+] AS graduate_programs
+UNWIND graduate_programs AS program
+CREATE (college)-[:HAS_PROGRAM]->(:AcademicProgram {
+  name: program.name,
+  type: program.type
+});
+
+// 8. 创建科研基地
+MATCH (college:College {name: "软件学院"})
+WITH college, [
+  "国家软件人才国际培训基地（昆明）",
+  "国家Linux技术培训与推广中心",
+  "中国信息安全产品测评认证中心云南测评中心",
+  "国家软件人才培养改革创新实验区"
+] AS centers
+UNWIND centers AS center
+CREATE (college)-[:HAS_RESEARCH_CENTER]->(:ResearchCenter {name: center});
+
+// 9. 创建合作企业
+MATCH (college:College {name: "软件学院"})
+WITH college, [
+  "IBM", "Intel", "华为", "甲骨文"
+] AS partners
+UNWIND partners AS partner
+CREATE (college)-[:COLLABORATES_WITH]->(:Company {name: partner});
+
+// 10. 创建发展目标
+MATCH (college:College {name: "软件学院"})
+WITH college, [
+  "培养国际化、工程型人才",
+  "推进协同育人、科研育人、实践育人和文化育人",
+  "深化CDIO工程教育模式",
+  "推行产学研一体化人才培养模式"
+] AS goals
+UNWIND goals AS goal
+CREATE (college)-[:HAS_GOAL]->(:Goal {description: goal});

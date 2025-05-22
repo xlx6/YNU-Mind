@@ -1,0 +1,317 @@
+
+
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    
+    
+
+<script>
+    window.WIS_CONFIG = {
+        ROOT_PATH: "/jwapp",
+        PATH: "/jwapp",
+        APPID: "4766960573884517",
+        APPNAME: "kcbcx",
+    };
+    var contextPath = "/jwapp";
+    var path = window.location.href;
+    var end = path.indexOf('/sys/');
+    var context_path = path.substring(0, end);
+    var appname = WIS_CONFIG.APPNAME;
+    var appid = WIS_CONFIG.APPID;
+    var app_path = context_path + "/sys/" + appname;
+    var roleId = "20150808183545465";
+    var userId = "";
+	var userName = "";
+    window.APP_CONFIG = {
+        ROOT_PATH: "/jwapp",
+        PATH: "/jwapp",
+        APP_VERSION: "1738807381329",
+        "MODULE_PATH": app_path + '/modules/',
+
+        "FE_DEBUG_MODE": false,
+
+        "ISSENTRY": true,
+        /*
+        	业务线开发模式，转测时置false
+         */
+        "DEBUG_MODE": false,
+
+        /*
+        	资源服务器地址
+         */
+        "RESOURCE_SERVER": "https://resw.ynu.edu.cn/1.8.1_TR26",
+
+
+        "BH_VERSION": '1.2',
+
+        /*
+         * 主题 blue purple
+         */
+        "THEME": "blue",
+        
+        "firstDayOfWeek":'',
+        /*
+        	服务器端生成配置API(API_BASE_PATH目录下)
+        	@example "/config.do" ./mock/serverconfig.json
+         */
+        "SERVER_CONFIG_API": context_path + "/sys/funauthapp/api/getAppConfig/" + appname + "-" +
+            appid + ".do",
+
+        /*
+        	APP默认路由
+         */
+        'APP_ENTRY': "",
+
+        /*
+        	应用底部说明文本
+         */
+        "FOOTER_TEXT": "金智教育股份有限公司",
+        "HEADER": {
+            "dropMenuCallback": function(item) {
+                if (item.id == pageMeta.params.ROLEID) {
+                    return false;
+                }
+                var url = WIS_CONFIG.ROOT_PATH + "/sys/funauthapp/api/changeAppRole/" + WIS_CONFIG.APPNAME + "/" + item.id + ".do";
+                $.ajax({
+                    url: url,
+                    type: 'post',
+                    async: false,
+                    error: function() {
+                        $.bhDialog({
+                            title: '切换失败',
+                            iconType: 'warning'
+                        });
+                    },
+                    success: function(data) {
+                        if (data != "" && data != null) {
+                            BH_UTILS.doSyncAjax(WIS_CONFIG.ROOT_PATH + '/sys/jwpubapp/pub/setJwCommonAppRole.do', {
+                                "ROLEID": item.id
+                            });
+                            location.href = location.href.replace(/&?gid_=[^&]*/, '').replace(/&?_yhz=[^&]*/, '').replace(/#.*/, '');
+                        }
+                    }
+                });
+            },
+            "logo": "./public/images/logo.png",
+            "icons": ["icon-apps"],
+            "userInfo": {
+	            "image": "https://resw.ynu.edu.cn/1.8.1_TR26/scenes/public/images/demo/user1.png",
+	            "info": [
+					"",
+					""
+	            ]
+	        }
+        },
+        "TEMPLATE_AFTER_RENDER": function(html) {
+            WIS_EMAP_CONFIG['emapdatatable.fxss'] = true;
+            WIS_EMAP_CONFIG['emapdatatable.isOnceEmpty'] = 'false'==='true'?true:false;
+            window.emapdatatableDefaultPageSize = '';
+            window.emapdatatableDefaultHeight = '';
+            window.exportZipMaXFileNum = Number('');
+            window.platformDomainName = '';
+            
+            if(!window.finishSetJwCommonAppRole){
+	            BH_UTILS.doSyncAjax(WIS_CONFIG.ROOT_PATH + '/sys/jwpubapp/pub/setJwCommonAppRole.do', {
+	                "ROLEID": pageMeta.params.ROLEID
+	            });
+	            window.finishSetJwCommonAppRole = true;
+            }
+			if (window.BH_UTILS && typeof window.BH_UTILS.bhWindow === 'function') {
+				var _bhWindow = window.BH_UTILS.bhWindow;
+				window.BH_UTILS.bhWindow = function(content, title, btns_def,
+						params, callback) {
+					var maxWidth = $(window).width() - 200;
+					var maxheight = $(window).height() - 40;
+					params = params || {};
+					var width = params.width;
+					var height = params.height;
+					if(typeof content === 'string' && content.indexOf('bh-customize-content') == -1){//自定义的弹框里面有这个样式。
+                        var width = width || 500;
+                        var height = height || 300;
+					}
+					if (width === undefined || width === null) {
+						width = maxWidth * 3 / 4;
+					}
+					if (height === undefined || height === null) {
+						height = maxheight * 3 / 4;
+					}
+					if (typeof width === 'string') {
+						width = parseFloat(width.replace('px', '').replace('%',''));
+					}
+					if (typeof height === 'string') {
+						height = parseFloat(height.replace('px', '').replace('%', ''));
+					}
+					if (width > maxWidth) {
+						width = maxWidth;
+					}
+					params.width = width;
+					if (height > maxheight) {
+						height = maxheight;
+					}
+					params.height = height;
+					return _bhWindow(content, title, btns_def, params, callback);
+				}
+			}
+			
+			if ($.bh_choose && typeof $.bh_choose === 'function') {
+				var _bhChoose = $.bh_choose;
+				$.bh_choose = function(params) {
+					params.leftRendered = function(){};
+					var maxheight = $(window).height() - 40;
+					params = params || {};
+					var height = params.height || 300;
+					if (height === undefined || height === null) {
+						height = maxheight * 3 / 4;
+					}
+					if (typeof height === 'string') {
+						height = parseFloat(height.replace('px', '').replace('%', ''));
+					}
+					if (height > maxheight) {
+						height = maxheight;
+					}
+					params.height = height + 'px';
+					params.scrollYEnable=true;
+					return _bhChoose(params);
+				}
+				$.bh_choose['default']= _bhChoose['default'];
+			}
+			
+			return html;
+		}
+	};
+	var APP_CFG = {
+		"app_footer" : "金智教育股份有限公司",
+		"app_theme" : "blue",
+		"res_server_path" : "https://resw.ynu.edu.cn/1.8.1_TR26",
+		"indexLogoUrl" : "./public/images/logo.png",
+		"header" : {
+			"dropMenuCallback" : function(item) {
+				if (item.id == pageMeta.params.ROLEID) {
+					return false;
+				}
+				var url = WIS_CONFIG.ROOT_PATH
+						+ "/sys/funauthapp/api/changeAppRole/"
+						+ WIS_CONFIG.APPNAME + "/" + item.id + ".do";
+				$.ajax({
+					url : url,
+					type : 'post',
+					data : 'selectedRoleId=' + item.id,
+					async : false,
+					error : function() {
+						$.bhDialog({
+							title : '切换失败',
+							iconType : 'warning'
+						});
+					},
+					success : function(data) {
+						if (data != "" && data != null) {
+                            BH_UTILS.doSyncAjax(WIS_CONFIG.ROOT_PATH + '/sys/jwpubapp/pub/setJwCommonAppRole.do', {
+                                "ROLEID": item.id
+                            });
+							location.href = location.href.replace(
+									/&?gid_=[^&]*/, '').replace(/&?_yhz=[^&]*/,
+									'').replace(/#.*/, '');
+						}
+					}
+				});
+			},
+			"logo" : "./public/images/logo.png",
+			"icons" : [ "icon-apps" ],
+			"userInfo" : {
+				"image" : "https://resw.ynu.edu.cn/1.8.1_TR26/scenes/public/images/demo/user1.png",
+				"info" : [ "", "" ]
+			}
+		}
+	};
+</script>
+<script src="https://resw.ynu.edu.cn/1.8.1_TR26/fe_components/commonlib.js?av=1738807381329"></script>
+<link rel="stylesheet" href="https://resw.ynu.edu.cn/1.8.1_TR26/bower_components/summernote-0.8.1/dist/summernote-bs3.min.css?av=1738807381329">
+<link rel="stylesheet" href="https://resw.ynu.edu.cn/1.8.1_TR26/bower_components/summernote-0.8.1/dist/summernote.css?av=1738807381329">
+<script src="https://resw.ynu.edu.cn/1.8.1_TR26/bower_components/bootstrap/dist/js/bootstrap.min.js?av=1738807381329"></script>
+<script src="https://resw.ynu.edu.cn/1.8.1_TR26/bower_components/summernote-0.8.1/dist/summernote.js?av=1738807381329"></script>
+<script src="https://resw.ynu.edu.cn/1.8.1_TR26/bower_components/cropper/cropper.min.js?av=1738807381329"></script>
+<link rel="stylesheet" type="text/css" href="../../jwpubapp/public/css/publicStyle.css?av=1738807381329">
+<link rel="stylesheet" type="text/css" href="../../jwpubapp/public/script/zeroPlugin/dist/zero-plugin.min.css?av=1738807381329">
+<script type="text/javascript" src="../../jwpubapp/public/script/zeroPlugin/dist/zero-plugin.min.js?av=1738807381329"></script>
+<script type="text/javascript" src="../../jwpubapp/public/script/zeroImporter2/zeroImporter2.js?av=1738807381329"></script>
+
+<script type="text/javascript" src="../../jwcommon/public/lib/jquery.cookie.js?av=1738807381329"></script>
+<script src="https://resw.ynu.edu.cn/1.8.1_TR26/fe_components/appcore-min.js?av=1738807381329"></script>
+<link rel="stylesheet" type="text/css" href="https://resw.ynu.edu.cn/1.8.1_TR26/bower_components/material-design-iconic-font/css/material-design-iconic-font.css?av=1738807381329">
+<link rel="stylesheet" href="../../jwpubapp/public/script/doc/doc.css?av=1738807381329">
+
+<script type="text/javascript" src="../../jwpubapp/public/script/publicfrreport/vue2.js?av=1738807381329"></script>
+<script type="text/javascript" src="../../jwpubapp/public/script/publicfrreport/public-frreport.js?av=1738807381329"></script>
+<script type="text/javascript" src="../../jwpubapp/public/script/jwcommon.js?av=1738807381329"></script>
+<script type="text/javascript" src="../../stateapp/public/js/common.js"></script>
+
+<link rel="stylesheet" type="text/css" href="../../jwcommon/public/css/jwPackagingMethod.css?av=1738807381329">
+<script type="text/javascript" src="../../jwcommon/public/script/jwPackagingMethod.min.js?av=1738807381329"></script>
+<script type="text/javascript" src="../../jwcommon/public/script/goldenfinger/goldenfingerPlugins.js?av=1738807381329"></script>
+<script type="text/javascript" src="../../jwcommon/public/script/goldenfinger/goldenfinger.js?av=1738807381329"></script>
+<!-- 首页常用应用记录js -->
+
+    <link rel="stylesheet" type="text/css" href="../public/widget/weekUnitTableInfo/weekUnitTableInfo.css" />
+    <script src="../public/js/ggFunctions.js"></script>
+	<script src="../public/js/jwpublic.js"></script>
+	<script src="../public/js/printArea.js"></script>
+    <script src="../public/widget/weekUnitTableInfo/weekUnitTableInfo.js"></script>
+    <script type="text/javascript">
+		function includeJsAndCssFiles(file) {
+			var includePath = '';
+			if (window.WIS_CONFIG !== undefined && window.WIS_CONFIG.PATH !== undefined) {
+				includePath += window.WIS_CONFIG.PATH;
+			}
+			includePath += '';
+
+			var files = typeof file == "string" ? [ file ] : file;
+			for (var i = 0; i < files.length; i++) {
+				var name = files[i];
+				var att = name.split('.');
+				var ext = att[att.length - 1].toLowerCase();
+				var isCSS = ext == "css";
+				var tag = isCSS ? "link" : "script";
+				var attr = isCSS ? " type='text/css' rel='stylesheet' " : " language='javascript' type='text/javascript' ";
+				var link = (isCSS ? "href" : "src") + "='" + name + "'";
+				if ($(tag + "[" + link + "]").length == 0) {
+					document.write("<" + tag + attr + link + "></" + tag + ">");
+				}
+			}
+		}
+		//var isIe = /msie/.test(navigator.userAgent.toLowerCase());
+		function isIE() { //ie?  
+		    if (!!window.ActiveXObject || "ActiveXObject" in window)  
+		        return true;  
+		    else  
+		        return false;  
+		} 
+		if (isIE()) {
+			includeJsAndCssFiles('../public/widget/weekUnitTableInfo/es6-promise.js');
+		}
+	</script>
+	<script src="../public/widget/weekUnitTableInfo/html2canvas.js"></script>
+	<script src="../public/widget/exporttableutil/tableExport.min.js"></script>
+    <!-- package.js 转测时开放（执行gulp buildapp 命令可以生成该文件）-->
+    <!-- <script type="text/javascript" src="./dest/package.js"></script> -->
+ 
+    <script type="text/javascript" src="../public/js/publicPrintFR.js"></script>
+    <!-- 全局变量pageMeta-->
+    <script type="text/javascript">
+        var pageMeta = {"datas":{},"models":[],"routes":{},"params":{"ROLEID":"20150808183545465","USERID":"20211060258"}};
+		var userId = pageMeta.params.USERID;
+		var userName = pageMeta.params.USERNAME;
+        var roleId = pageMeta.params.ROLEID;	
+    </script>
+</head>
+
+<body>
+</body>
+
+</html>

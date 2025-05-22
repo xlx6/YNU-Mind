@@ -1,0 +1,120 @@
+{
+    "node_type": "University",
+    "university_id": "YNU",
+    "name": "云南大学",
+    "established_year": 1922,
+    "motto": "自尊 致知 正义 力行",
+    "spirit": "会泽百家，至公天下",
+    "rankings": {
+      "211工程": true,
+      "双一流": true,
+      "软科": 70,
+      "USNews": 822,
+      "校友会": 90
+    },
+    "campuses": [
+      {
+        "campus_id": "CG",
+        "campus_name": "呈贡校区",
+        "address": "昆明市呈贡区大学城东外环南路",
+        "area_size": "4016亩"
+      },
+      {
+        "campus_id": "DL",
+        "campus_name": "东陆校区",
+        "address": "昆明市五华区翠湖北路2号",
+        "area_size": "351亩"
+      }
+    ],
+    "key_achievements": [
+      "中国首批42所‘双一流’建设高校",
+      "国家‘211工程’重点建设大学",
+      "民族学、生态学学科全国前7%"
+    ],
+    "academic_structure": {
+      "colleges": 29,
+      "research_institutes": 8,
+      "affiliated_hospital": 1,
+      "affiliated_high_school": 1
+    },
+    "student_population": {
+      "undergraduates": 18000,
+      "postgraduates": 19000,
+      "international_students": 1000
+    },
+    "faculty": {
+      "total": 3500,
+      "notable_faculty": [
+        "熊庆来（著名数学家、教育家，曾任校长）"
+      ]
+    },
+    "academic_resources": {
+      "library_collection": "445万册",
+      "research_equipment_value": "20亿元"
+    },
+    "disciplines": {
+      "undergraduate_programs": 85,
+      "national_first_class_programs": 68,
+      "doctoral_programs": 22,
+      "master_programs": 43,
+      "key_disciplines": [
+        "民族学",
+        "生态学",
+        "统计学",
+        "生物与生物医药",
+        "边疆问题和区域国别研究"
+      ]
+    },
+    "leadership": {
+      "honorary_president": "张亚平",
+      "party_secretary": "周学斌",
+      "president": "马文会",
+      "vice_presidents": [
+        "陈克清",
+        "廖炼忠",
+        "吴涧",
+        "段兴武",
+        "唐年胜",
+        "杨绍军"
+      ]
+    },
+    "contact": {
+      "phone": "0871-65031141",
+      "email": "ynu@ynu.edu.cn",
+      "website": "https://www.ynu.edu.cn"
+    },
+    "historical_milestones": [
+      {
+        "year": 1922,
+        "event": "建校，初名私立东陆大学"
+      },
+      {
+        "year": 1934,
+        "event": "更名为省立云南大学"
+      },
+      {
+        "year": 1938,
+        "event": "改为国立云南大学"
+      },
+      {
+        "year": 1946,
+        "event": "被《不列颠百科全书》列为中国15所在世界最具影响的大学之一"
+      },
+      {
+        "year": 1978,
+        "event": "被国务院确定为全国88所重点大学之一"
+      },
+      {
+        "year": 1996,
+        "event": "首批列入国家‘211工程’重点建设大学"
+      },
+      {
+        "year": 2017,
+        "event": "入选国家首批42所‘双一流’建设高校"
+      },
+      {
+        "year": 2023,
+        "event": "习近平总书记致信祝贺云南大学建校100周年"
+      }
+    ]
+  }

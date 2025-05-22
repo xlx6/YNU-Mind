@@ -1,0 +1,4802 @@
+[
+    {
+        "question": "数学与统计学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下王标老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "专业导学课是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "陈黎老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "概率论与数理统计B是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "肖清老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "巫思杏老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "柏正尧老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "康洪炜老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "张云春老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "李海老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "软件服务工程的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "朱娟萍老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "沈勇老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "王普明老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "何臻力老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "张艳老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "陆正福老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下娄本功老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "李震雄老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "郎恂老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "梁宇老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数字信号处理是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "丁海燕老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1303的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "刘春花老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "陈清毅老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "李华光老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下索剑峰老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "周浩老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "周小兵老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "时光老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "闵文文老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数据通信与计算机网络的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "软件学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "刘俊晖老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "谷懿老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "谷懿老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "梁虹老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "线性代数的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "高等数学B（2）的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1607的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "何乐生老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "控制系统工程设计是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "力行楼2603的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "影视后期制作的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "大学物理实验C是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "应用时间序列分析实验是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下林国广老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "王继兴老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "李浩老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下沈勇老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "朱敏老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1504的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "杨宗文老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "格物楼2栋2407的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "刘晓非老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下汤智文老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "软件学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下杨宗文老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "计算机网络工程是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "无线与移动通信是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数据可视化与探索性分析是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "丁海燕老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数学分析（2）的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下张艳青老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "微分几何的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下王菡苑老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "格物楼2栋2306的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "王普明老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下王钦老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "刘萍老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "王超老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "王炜老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "力行楼1202（大阶梯教室）的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "金钊老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "林英老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "水与旅游的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "赵莉莉老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "格物楼2栋2306的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "力行楼4606的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "集成电路设计导论的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "高等数学A（2）的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "赵莉莉老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下朱敏老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "经典音乐作品赏析是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下池宗琳老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "柏正尧老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数据结构与算法设计实验的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "格物楼3栋3510（数统学院）的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下王继兴老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "林国广老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "电子信息工程设计与实践II的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "软件学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "音乐主修(声乐/器乐/理论/作曲)（二）的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数字媒体技术创新实践的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "信息学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "王钦老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下杨志柳老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "软件学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "程序设计是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "力行楼4409的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "博弈论是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下葛瑜老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "彭宏老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "移动应用开发技术的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "软件学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "李海老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "信息学院2203的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下丁海燕老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下陈黎老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "信息学院2201的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数据挖掘与知识发现是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "软件质量保证与测试是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "梁竹关老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "软件学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "信息学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "软件学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "李海老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数据结构与算法设计的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "信息学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "高等代数 II的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "力行楼3501的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "随机过程实验是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数学建模与实验是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "廖赟老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下明梅老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "人工智能导论的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "周玉珏老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "黄辉老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "实用日本语入门是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "力行楼2406的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1506的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "专业导学课的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下段清老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "张理老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "网络协议分析与安全是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "应用时间序列分析的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "高等数学C（2）的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "黄光能老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "音乐美学（二）的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "张璇老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "信息学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "姚绍文老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "钱文华老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "金钊老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "保利勇老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "力行楼4302的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1503的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "高等数学A（2）的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "生物数学的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "保利勇老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数学与统计学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数学分析（2）是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "柏正尧老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "王磊老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "杨宗文老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "鲁进老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下黄光能老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "程序设计是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "曲式与作品分析（2）是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "梁虹老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "李震雄老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "信息学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "巫思杏老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下胡刚老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下汪军老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数字媒体技术实训(初级)的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "信息学院2303的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数字电路的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "时光老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "刘晓非老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数字信号处理实验是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "柏正尧老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "李震雄老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数学与统计学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "曹春华老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "梁虹老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "信息学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "力行楼3402的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "王菡苑老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "Python语言程序设计实践是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "格物楼2栋2105的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "林国广老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "金钊老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "文汇楼2栋2218（大阶梯教室）的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "力行楼4409的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "文渊楼314的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下唐琳老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数字信号处理的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "康雁老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "面向对象程序设计与实践是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "专业导学课是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "李浩老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "李浩老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数据库及安全的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "李伟东老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "王磊老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "周建军老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下梁宇老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "信息学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "葛瑜老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下丁海燕老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "杨汉春老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "面向对象程序设计与实践的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "计算机图形学的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "何臻力老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1305的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "短课程 1是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "力行楼2404的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "周建军老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "郭怡老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "软件学院1329的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "信息学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下谷懿老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1403的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "新技术专题（2）的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "软件工程实训 (初级)的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "张韵祺老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "李维华老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1308的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "软件学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下易超老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "文渊楼203的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下张韵祺老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数据库概论是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数学与统计学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "软件无线电技术的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "计算机组成原理实验是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "梁竹关老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1307的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数学与统计学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "彭程老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数学与统计学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "软件学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数学与统计学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下王钦老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "格物楼2栋2305的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "丁海燕老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "抽样技术与应用实验的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "程序设计的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1506的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "池宗琳老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "软件学院1429的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "软件学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "李华光老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "丁海燕老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "信息学院2508的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下韦平老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "韦平老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "大数据基础是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "王钦老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下葛瑜老师。",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "汤智文老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数字图像处理的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "段清老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "黄光能老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "江倩老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "鲁进老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "Python语言程序设计实践是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数学与统计学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "李海老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数学与统计学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "王文老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "黄辉老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "潘东东老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "多媒体程序设计是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "王磊老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1408的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "谢汝生老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "黄亚群老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "丁海燕老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "胡盛老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1508的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "大学物理实验B(1)的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "王超老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "张应应老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "计算机网络的学分是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "周玉珏老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "刘夕龙老师的联系方式是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "李浩老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "信息学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "何敏老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "格物楼2栋2104的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数学与统计学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "人工智能导论是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "力行楼2306的容量有多大？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "贺康建老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "汤智文老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "梁竹关老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "信息学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "保利勇老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "杨晶晶老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "李震雄老师的职称是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "电子电工技术是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "小波分析是谁教的？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "李劲老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "信息学院的官方网址是什么？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "段亮老师在哪个学院？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "江倩老师的邮箱是多少？",
+        "intention": "neo4j",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "数学分析习作（2）的上课地点在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "冯立波老师教授的课程有哪些？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "郭怡老师教授的课程有哪些？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "段亮老师教授的课程有哪些？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "软件工程实训 (初级)的上课地点在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "高等代数（2）的上课地点在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "高等数学C（2）的教学班有多少人？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "陈清毅老师教授的面向对象程序设计与实践的上课时间和地点是什么？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "中山邦翰楼414在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "面向对象程序设计与实践的上课地点在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "丁海燕老师教授的专业英语在哪上课？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "高等代数（2）的上课地点在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "丁红林老师教授的运筹学通论实验的上课时间和地点是什么？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "何婧老师教授的数据库概论的上课时间和地点是什么？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "机器学习与人工智能的上课地点在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "孙兴平老师教授的面向对象程序设计与实践的上课时间和地点是什么？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "宋冰冰老师教授的课程有哪些？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "韩博老师教授的课程有哪些？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "孙兴平老师教授的面向对象程序设计与实践在哪上课？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "信号与系统的教学班有多少人？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "梁竹关老师教授的大学物理B(1)在哪上课？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "柏正尧老师教授的课程有哪些？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1503在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "胡盛老师教授的课程有哪些？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "格物楼2栋2107在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "应用时间序列分析实验的上课地点在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "巫思杏老师教授的课程有哪些？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "肖清老师教授的课程有哪些？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "Python语言程序设计实践的上课地点在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1108在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "物理学院3305-10在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "张云春老师教授的数据库及安全实践在哪上课？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "柴晶老师教授的模式识别实验的上课时间和地点是什么？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "数字电路的上课地点在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "数学分析II的教学班有多少人？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "李成梁老师教授的最优化方法的上课时间和地点是什么？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "沈勇老师教授的面向对象程序设计与实践的上课时间和地点是什么？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "Python语言程序设计实践的上课地点在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "最优化理论与方法的教学班有多少人？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "周建军老师教授的课程有哪些？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "计算机网络的教学班有多少人？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "环球音乐采风的上课地点在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "袁国武老师教授的虚拟现实及应用技术的上课时间和地点是什么？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "程序设计的教学班有多少人？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "机器学习的上课地点在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1408在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "陈哲老师教授的课程有哪些？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "张韵祺老师教授的课程有哪些？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "孙兴平老师教授的移动应用开发技术在哪上课？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "何青海老师教授的数学分析（2）在哪上课？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "专业导学课的上课地点在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "数字图像处理的教学班有多少人？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "信息学院2204在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "刘萍老师教授的常微分方程在哪上课？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "许红星老师教授的课程有哪些？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "何乐生老师教授的数字电路在哪上课？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "信息学院2203在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "软件学院1428-1在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "拓扑学的教学班有多少人？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "格物楼2栋2406在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "李浩老师教授的论文写作（二）在哪上课？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "赵莉莉老师教授的高等数学A（2）在哪上课？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "随机过程实验的教学班有多少人？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "电子电工技术的上课地点在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "初等数论的教学班有多少人？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "池宗琳老师教授的程序设计的上课时间和地点是什么？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "刘晓非老师教授的最优化理论与方法的上课时间和地点是什么？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "陈清毅老师教授的课程有哪些？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "柏正尧老师教授的数字信号处理实验的上课时间和地点是什么？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "实用日本语入门的教学班有多少人？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "数据可视化技术的上课地点在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "物理学院3305-6在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "柏正尧老师教授的课程有哪些？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "格物楼2栋2305在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "大数据基础的上课地点在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "信息学院2201在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "薛岗老师教授的面向对象程序设计与实践在哪上课？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "面向对象程序设计与实践的教学班有多少人？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "李源老师教授的课程有哪些？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "陈哲老师教授的传统文化与生态文明建设在哪上课？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "池宗琳老师教授的课程有哪些？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "徐丹老师教授的课程有哪些？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "常俊老师教授的无线定位技术在哪上课？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "大学物理B(1)的上课地点在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "Python语言程序设计实践的上课地点在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "Python大数据分析基础的上课地点在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1503在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "索剑峰老师教授的数学分析II的上课时间和地点是什么？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "杨宗文老师教授的高等数学C（2）的上课时间和地点是什么？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "信息学院2201在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "秦江龙老师教授的课程有哪些？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1508在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "李波老师教授的网络计算技术的上课时间和地点是什么？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "李源老师教授的课程有哪些？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "线性代数的上课地点在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1108在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "大学生创新创业教育的上课地点在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "随机过程的上课地点在哪个校区？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "何青海老师教授的数学分析习作（2）在哪上课？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "王标老师教授的高等数学C（2）的上课时间和地点是什么？",
+        "intention": "neo4j",
+        "level": "medium",
+        "answer": ""
+    },
+    {
+        "question": "在数统学院上课的所有课程中，哪些由数学与统计学院开设，且学分超过3？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "关莉老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "李海老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "同时在力行楼4105（小阶梯教室）上课的老师有哪些（列出5个）？他们教授的课程是什么？（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "找出周一下午在信息学院有课且职称是教授的老师（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "李成梁老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "同时在文渊楼一楼机房A区上课的老师有哪些（列出5个）？他们教授的课程是什么？（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "江华老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "在格物楼1栋上课的所有课程中，哪些由数学与统计学院开设，且学分超过3？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "同时在信息学院2204上课的老师有哪些（列出5个）？他们教授的课程是什么？（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "同时在格物楼1栋1405上课的老师有哪些（列出5个）？他们教授的课程是什么？（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "找出周一下午在力行楼有课且职称是教授的老师（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "在物理学院上课的所有课程中，哪些由信息学院开设，且学分超过3？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "找出周一下午在格物楼2栋有课且职称是教授的老师（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "同时在格物楼1栋1505上课的老师有哪些（列出5个）？他们教授的课程是什么？（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "信息学院有哪些老师发表过关于“人工智能”的论文？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "找出周一下午在格物楼1栋有课且职称是教授的老师（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "软件学院有哪些老师发表过关于“人工智能”的论文？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "李震雄老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "找出周一下午在信息学院有课且职称是教授的老师（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "在格物楼3栋上课的所有课程中，哪些由数学与统计学院开设，且学分超过3？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "钱文华老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "找出周一下午在信息学院有课且职称是教授的老师（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "丁海燕老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "在格物楼4栋上课的所有课程中，哪些由数学与统计学院开设，且学分超过3？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "找出周一下午在格物楼1栋有课且职称是教授的老师（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "余立行老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "数学与统计学院有哪些老师发表过关于“人工智能”的论文？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "同时在文汇楼3栋3201上课的老师有哪些（列出5个）？他们教授的课程是什么？（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "软件学院有哪些老师发表过关于“人工智能”的论文？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "软件学院有哪些老师发表过关于“人工智能”的论文？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "在格物楼4栋上课的所有课程中，哪些由信息学院开设，且学分超过3？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "在力行楼上课的所有课程中，哪些由数学与统计学院开设，且学分超过3？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "找出周一下午在力行楼有课且职称是教授的老师（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "同时在格物楼4栋4105上课的老师有哪些（列出5个）？他们教授的课程是什么？（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "数学与统计学院有哪些老师发表过关于“人工智能”的论文？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "同时在文渊楼419上课的老师有哪些（列出5个）？他们教授的课程是什么？（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "杨培忠老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "找出周一下午在力行楼有课且职称是教授的老师（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "肖清老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "廖赟老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "汪军老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "柏正尧老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "黄亚群老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "数学与统计学院有哪些老师发表过关于“人工智能”的论文？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "代新杰老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "软件学院有哪些老师发表过关于“人工智能”的论文？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "余鹏飞老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "易超老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "孙兴平老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "同时在信息学院2203上课的老师有哪些（列出5个）？他们教授的课程是什么？（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "信息学院有哪些老师发表过关于“人工智能”的论文？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "在格物楼1栋上课的所有课程中，哪些由信息学院开设，且学分超过3？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "同时在格物楼2栋2104上课的老师有哪些（列出5个）？他们教授的课程是什么？（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "找出周一下午在格物楼1栋有课且职称是教授的老师（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "李浩老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "软件学院有哪些老师发表过关于“人工智能”的论文？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "找出周一下午在格物楼1栋有课且职称是教授的老师（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "找出周一下午在商旅学院有课且职称是教授的老师（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "找出周一下午在力行楼有课且职称是教授的老师（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "找出周一下午在格物楼2栋有课且职称是教授的老师（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "软件学院有哪些老师发表过关于“人工智能”的论文？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "信息学院有哪些老师发表过关于“人工智能”的论文？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "找出周一下午在格物楼1栋有课且职称是教授的老师（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "同时在信息学院2202上课的老师有哪些（列出5个）？他们教授的课程是什么？（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "刘宏杰老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "软件学院有哪些老师发表过关于“人工智能”的论文？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "冯立波老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "数学与统计学院有哪些老师发表过关于“人工智能”的论文？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "在格物楼1栋上课的所有课程中，哪些由数学与统计学院开设，且学分超过3？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "同时在力行楼4606上课的老师有哪些（列出5个）？他们教授的课程是什么？（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "信息学院有哪些老师发表过关于“人工智能”的论文？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "在格物楼1栋上课的所有课程中，哪些由数学与统计学院开设，且学分超过3？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "找出周一下午在信息学院有课且职称是教授的老师（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "找出周一下午在格物楼1栋有课且职称是教授的老师（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "信息学院有哪些老师发表过关于“人工智能”的论文？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "找出周一下午在格物楼1栋有课且职称是教授的老师（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "找出周一下午在力行楼有课且职称是教授的老师（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "同时在格物楼1栋1406上课的老师有哪些（列出5个）？他们教授的课程是什么？（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "在信息学院上课的所有课程中，哪些由信息学院开设，且学分超过3？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "找出周一下午在力行楼有课且职称是教授的老师（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "软件学院有哪些老师发表过关于“人工智能”的论文？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "找出周一下午在力行楼有课且职称是教授的老师（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "同时在文渊楼203上课的老师有哪些（列出5个）？他们教授的课程是什么？（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "黄亚群老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "在格物楼2栋上课的所有课程中，哪些由信息学院开设，且学分超过3？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "找出周一下午在物理学院有课且职称是教授的老师（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "王超老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "王钦老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "同时在格物楼1栋1405上课的老师有哪些（列出5个）？他们教授的课程是什么？（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "在格物楼1栋上课的所有课程中，哪些由软件学院开设，且学分超过3？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "同时在力行楼1201（大阶梯教室）上课的老师有哪些（列出5个）？他们教授的课程是什么？（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "信息学院有哪些老师发表过关于“人工智能”的论文？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "找出周一下午在格物楼1栋有课且职称是教授的老师（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "同时在格物楼1栋1107上课的老师有哪些（列出5个）？他们教授的课程是什么？（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "在力行楼上课的所有课程中，哪些由软件学院开设，且学分超过3？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "同时在力行楼4107（小阶梯教室）上课的老师有哪些（列出5个）？他们教授的课程是什么？（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "在软件学院上课的所有课程中，哪些由软件学院开设，且学分超过3？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "李伟东老师所在学院官网是什么？开设的课程有哪些（列出5个）？",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "同时在格物楼1栋1608上课的老师有哪些（列出5个）？他们教授的课程是什么？（列出5个）",
+        "intention": "neo4j",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "今天昆明的天气怎么样？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "现在几点了？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "人类是怎么登上月球的？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "如何快速学会Python编程？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "为什么天空是蓝色的？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "水能灭火，那油火为什么不能用水灭？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "1+1为什么等于2？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "你能给我讲一个笑话吗？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "推荐几本入门人工智能的书籍。",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "中国的最高山峰是哪座？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "如何预防感冒？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "喝咖啡真的会提神吗？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "今天适合出门散步吗？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下人工智能的发展历史。",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "你知道地球有多重吗？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "“元宇宙”是什么意思？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "我可以如何提高学习效率？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "今年春节是几号？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "世界上最长的河是哪条？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "你能做些什么？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "大学生应该怎么规划职业发展？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "推荐一部适合周末放松的电影。",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "人一天应该喝多少水？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "太阳是怎么发光的？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "狗为什么会摇尾巴？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "如何快速背单词？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "你是谁？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下图灵测试。",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "为什么会打哈欠？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "人为什么会做梦？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "宇宙有边界吗？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "怎么防止手机上瘾？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "为什么猫喜欢蹭人？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "什么是黑洞？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "可以用一句话鼓励我吗？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "云南的气候有什么特点？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "今天是星期几？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "世界上最辣的辣椒是什么？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "你喜欢什么颜色？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "告诉我一个冷知识。",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "2025年五一放几天假？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "电动车上坡费电还是下坡费电？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "你能生成一段古风诗吗？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "世界上第一本书是什么？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下诺贝尔奖的由来。",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "如何做一个番茄炒蛋？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "昆明到大理怎么坐高铁？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "“ChatGPT”是谁开发的？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "AI 会取代人类的工作吗？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "我今天运势如何？",
+        "intention": "open",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "如何办理本科学生放弃辅修或辅修类型变更办理流程？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "毕业证、学位证遗失补办证明书流程是否可以代办？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "云南大学领取本科学历学位证书流程需要哪些材料？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "学生申请课程缓考办理流程的流程复杂吗？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "在哪里可以查到学生申请课程免听办理流程的进度？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "本科学生毕业论文（设计）工作流程在哪里可以申请？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "请问实践教学科项目经费报销流程是否有限定时间？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "学生毕业审核申请学分认定办理流程的办理流程是什么？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "本科学生毕业论文（设计）工作流程要多久能办好？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "申请修改学信网信息办理流程要多久能办好？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "本科学生放弃辅修或辅修类型变更办理流程的审核周期是多久？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "如何办理学生毕业审核申请学分认定办理流程？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "本科学生放弃辅修或辅修类型变更办理流程的办理流程是什么？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "申请学历或学位证明材料办理流程的具体步骤有哪些？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "本科学生毕业论文（设计）工作流程办理时常见的问题有哪些？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "毕业证、学位证补换发流程在哪里可以申请？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "调停课申请流程是否可以代办？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "我想了解一下临时使用教室申请流程。",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "在哪里可以查到毕业证、学位证遗失补办证明书流程的进度？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "在哪里可以查到成绩单、学籍证明打印办理流程的进度？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "在哪里可以查到实践教学科项目经费报销流程的进度？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "学生申请课程免听办理流程是否可以代办？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "实践教学科项目经费报销流程需要导师签字吗？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "请问云南大学领取本科学历学位证书流程是否有限定时间？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "补办学生证流程的具体步骤有哪些？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "大学生创新创业训练项目工作流程要多久能办好？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "学生申请课程缓考办理流程的办理流程是什么？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "学生申请课程免修办理流程的具体步骤有哪些？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "本科学生放弃辅修或辅修类型变更办理流程是否可以代办？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "补办学生证流程在哪里可以申请？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "实践教学科项目经费报销流程是否可以线上办理？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "学生毕业审核申请学分认定办理流程的审核周期是多久？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "毕业证、学位证遗失补办证明书流程办理时常见的问题有哪些？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "实践教学科项目经费报销流程需要哪些材料？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "本科学生放弃辅修或辅修类型变更办理流程是否可以代办？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "申请修改学信网信息办理流程的审核周期是多久？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "补办学生证流程的办理流程是什么？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "请问教师办理成绩录入延期、成绩录入系数更改流程是否有限定时间？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "补办学生证流程要多久能办好？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "如何办理调停课申请流程？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "学生申请课程缓考办理流程的具体步骤有哪些？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "临时使用教室申请流程是否可以代办？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "毕业证、学位证遗失补办证明书流程是否可以代办？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "申请学历或学位证明材料办理流程在哪里可以申请？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "毕业证、学位证补换发流程的办理流程是什么？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "成绩单、学籍证明打印办理流程要多久能办好？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "请问毕业证、学位证补换发流程是否有限定时间？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "实践教学科项目经费报销流程的具体步骤有哪些？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "如何办理临时使用教室申请流程？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "实践教学科项目经费报销流程在哪里可以申请？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "教师办理成绩录入延期、成绩录入系数更改流程要多久能办好？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "教师办理成绩录入延期、成绩录入系数更改流程办理时常见的问题有哪些？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "本科学生放弃辅修或辅修类型变更办理流程的流程复杂吗？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "如何办理云南大学领取本科学历学位证书流程？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "云南大学领取本科学历学位证书流程需要哪些材料？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "调停课申请流程是否可以代办？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "请问学生申请课程缓考办理流程是否有限定时间？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "毕业证、学位证补换发流程在哪里可以申请？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "学生申请课程免听办理流程办理时常见的问题有哪些？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "成绩单、学籍证明打印办理流程的具体步骤有哪些？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "申请学历或学位证明材料办理流程需要导师签字吗？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "学生申请课程缓考办理流程的具体步骤有哪些？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "毕业证、学位证遗失补办证明书流程办理时常见的问题有哪些？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "实践教学科项目经费报销流程是否可以代办？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "如何办理教师办理成绩录入延期、成绩录入系数更改流程？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "学生申请课程免听办理流程的办理流程是什么？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "学生申请课程缓考办理流程在哪里可以申请？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "毕业证、学位证补换发流程需要哪些材料？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "我想了解一下大学生创新创业训练项目工作流程。",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "实践教学科项目经费报销流程需要导师签字吗？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "学生毕业审核申请学分认定办理流程是否可以线上办理？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "请问申请学历或学位证明材料办理流程是否有限定时间？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "我想了解一下大学生创新创业训练项目工作流程。",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "本科学生毕业论文（设计）工作流程在哪里可以申请？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "学生毕业审核申请学分认定办理流程的办理流程是什么？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "云南大学领取本科学历学位证书流程需要导师签字吗？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "本科学生毕业论文（设计）工作流程在哪里可以申请？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "申请修改学信网信息办理流程的具体步骤有哪些？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "我想了解一下毕业证、学位证遗失补办证明书流程。",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "成绩单、学籍证明打印办理流程需要哪些材料？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "学生申请课程免听办理流程在哪里可以申请？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "学生申请课程免听办理流程的办理流程是什么？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "本科学生放弃辅修或辅修类型变更办理流程是否可以代办？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "学生申请课程缓考办理流程要多久能办好？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "实践教学科项目经费报销流程需要导师签字吗？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "学生申请课程免修办理流程需要哪些材料？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "实践教学科项目经费报销流程在哪里可以申请？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "在哪里可以查到学生申请课程缓考办理流程的进度？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "学生申请课程免修办理流程的具体步骤有哪些？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "成绩单、学籍证明打印办理流程的办理流程是什么？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "学生毕业审核申请学分认定办理流程的审核周期是多久？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "临时使用教室申请流程的审核周期是多久？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "在哪里可以查到申请修改学信网信息办理流程的进度？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "申请学历或学位证明材料办理流程的流程复杂吗？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "学生申请课程缓考办理流程是否可以线上办理？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "本科学生毕业论文（设计）工作流程在哪里可以申请？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "申请学历或学位证明材料办理流程的具体步骤有哪些？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "我想了解一下本科学生毕业论文（设计）工作流程。",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "请问本科学生放弃辅修或辅修类型变更办理流程是否有限定时间？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "如何办理临时使用教室申请流程？",
+        "intention": "vector",
+        "level": "simple",
+        "answer": ""
+    },
+    {
+        "question": "高等代数（2）的上课地点在哪个校区？如何办理本科学生放弃辅修或辅修类型变更办理流程？今天昆明的天气怎么样？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "高等数学C（2）的教学班有多少人？毕业证、学位证遗失补办证明书流程是否可以代办？现在几点了？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "何青海老师教授的数学分析（2）在哪上课？云南大学领取本科学历学位证书流程需要哪些材料？人类是怎么登上月球的？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "宋冰冰老师教授的课程有哪些？学生申请课程缓考办理流程的流程复杂吗？如何快速学会Python编程？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "张韵祺老师教授的课程有哪些？在哪里可以查到学生申请课程免听办理流程的进度？为什么天空是蓝色的？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "张云春老师教授的数据库及安全实践在哪上课？本科学生毕业论文（设计）工作流程在哪里可以申请？水能灭火，那油火为什么不能用水灭？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "丁红林老师教授的运筹学通论实验的上课时间和地点是什么？请问实践教学科项目经费报销流程是否有限定时间？1+1为什么等于2？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "数字电路的上课地点在哪个校区？学生毕业审核申请学分认定办理流程的办理流程是什么？你能给我讲一个笑话吗？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "中山邦翰楼414在哪个校区？本科学生毕业论文（设计）工作流程要多久能办好？推荐几本入门人工智能的书籍。",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "刘萍老师教授的常微分方程在哪上课？申请修改学信网信息办理流程要多久能办好？中国的最高山峰是哪座？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "王标老师教授的高等数学C（2）的上课时间和地点是什么？本科学生放弃辅修或辅修类型变更办理流程的审核周期是多久？如何预防感冒？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "线性代数的上课地点在哪个校区？如何办理学生毕业审核申请学分认定办理流程？喝咖啡真的会提神吗？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "信息学院2204在哪个校区？本科学生放弃辅修或辅修类型变更办理流程的办理流程是什么？今天适合出门散步吗？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "软件学院1428-1在哪个校区？申请学历或学位证明材料办理流程的具体步骤有哪些？介绍一下人工智能的发展历史。",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "面向对象程序设计与实践的上课地点在哪个校区？本科学生毕业论文（设计）工作流程办理时常见的问题有哪些？你知道地球有多重吗？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "面向对象程序设计与实践的教学班有多少人？毕业证、学位证补换发流程在哪里可以申请？“元宇宙”是什么意思？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "格物楼2栋2305在哪个校区？调停课申请流程是否可以代办？我可以如何提高学习效率？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "电子电工技术的上课地点在哪个校区？我想了解一下临时使用教室申请流程。今年春节是几号？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "随机过程实验的教学班有多少人？在哪里可以查到毕业证、学位证遗失补办证明书流程的进度？世界上最长的河是哪条？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "数学分析习作（2）的上课地点在哪个校区？在哪里可以查到成绩单、学籍证明打印办理流程的进度？你能做些什么？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "李成梁老师教授的最优化方法的上课时间和地点是什么？在哪里可以查到实践教学科项目经费报销流程的进度？大学生应该怎么规划职业发展？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "信息学院2203在哪个校区？学生申请课程免听办理流程是否可以代办？推荐一部适合周末放松的电影。",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "Python语言程序设计实践的上课地点在哪个校区？实践教学科项目经费报销流程需要导师签字吗？人一天应该喝多少水？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "数据可视化技术的上课地点在哪个校区？请问云南大学领取本科学历学位证书流程是否有限定时间？太阳是怎么发光的？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "格物楼2栋2406在哪个校区？补办学生证流程的具体步骤有哪些？狗为什么会摇尾巴？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1408在哪个校区？大学生创新创业训练项目工作流程要多久能办好？如何快速背单词？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "拓扑学的教学班有多少人？学生申请课程缓考办理流程的办理流程是什么？你是谁？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "何青海老师教授的数学分析习作（2）在哪上课？学生申请课程免修办理流程的具体步骤有哪些？介绍一下图灵测试。",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "韩博老师教授的课程有哪些？本科学生放弃辅修或辅修类型变更办理流程是否可以代办？为什么会打哈欠？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1108在哪个校区？补办学生证流程在哪里可以申请？人为什么会做梦？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "机器学习的上课地点在哪个校区？实践教学科项目经费报销流程是否可以线上办理？宇宙有边界吗？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "陈哲老师教授的传统文化与生态文明建设在哪上课？学生毕业审核申请学分认定办理流程的审核周期是多久？怎么防止手机上瘾？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "物理学院3305-6在哪个校区？毕业证、学位证遗失补办证明书流程办理时常见的问题有哪些？为什么猫喜欢蹭人？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "肖清老师教授的课程有哪些？实践教学科项目经费报销流程需要哪些材料？什么是黑洞？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "李波老师教授的网络计算技术的上课时间和地点是什么？本科学生放弃辅修或辅修类型变更办理流程是否可以代办？可以用一句话鼓励我吗？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "最优化理论与方法的教学班有多少人？申请修改学信网信息办理流程的审核周期是多久？云南的气候有什么特点？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1503在哪个校区？补办学生证流程的办理流程是什么？今天是星期几？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "程序设计的教学班有多少人？请问教师办理成绩录入延期、成绩录入系数更改流程是否有限定时间？世界上最辣的辣椒是什么？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "数学分析II的教学班有多少人？补办学生证流程要多久能办好？你喜欢什么颜色？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "常俊老师教授的无线定位技术在哪上课？如何办理调停课申请流程？告诉我一个冷知识。",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "胡盛老师教授的课程有哪些？学生申请课程缓考办理流程的具体步骤有哪些？2025年五一放几天假？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "徐丹老师教授的课程有哪些？临时使用教室申请流程是否可以代办？电动车上坡费电还是下坡费电？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "信息学院2201在哪个校区？毕业证、学位证遗失补办证明书流程是否可以代办？你能生成一段古风诗吗？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "陈清毅老师教授的课程有哪些？申请学历或学位证明材料办理流程在哪里可以申请？世界上第一本书是什么？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1508在哪个校区？毕业证、学位证补换发流程的办理流程是什么？介绍一下诺贝尔奖的由来。",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "孙兴平老师教授的面向对象程序设计与实践的上课时间和地点是什么？成绩单、学籍证明打印办理流程要多久能办好？如何做一个番茄炒蛋？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "高等代数（2）的上课地点在哪个校区？请问毕业证、学位证补换发流程是否有限定时间？昆明到大理怎么坐高铁？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "大数据基础的上课地点在哪个校区？实践教学科项目经费报销流程的具体步骤有哪些？“ChatGPT”是谁开发的？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "李源老师教授的课程有哪些？如何办理临时使用教室申请流程？AI 会取代人类的工作吗？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "软件工程实训 (初级)的上课地点在哪个校区？实践教学科项目经费报销流程在哪里可以申请？我今天运势如何？",
+        "intention": "neo4j+vector+open",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "力行楼4409的容量有多大？如何办理本科学生放弃辅修或辅修类型变更办理流程？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1607的容量有多大？毕业证、学位证遗失补办证明书流程是否可以代办？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "刘萍老师的邮箱是多少？云南大学领取本科学历学位证书流程需要哪些材料？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下张艳青老师。学生申请课程缓考办理流程的流程复杂吗？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "李震雄老师的职称是什么？在哪里可以查到学生申请课程免听办理流程的进度？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1305的容量有多大？本科学生毕业论文（设计）工作流程在哪里可以申请？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "汤智文老师在哪个学院？请问实践教学科项目经费报销流程是否有限定时间？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "柏正尧老师的职称是什么？学生毕业审核申请学分认定办理流程的办理流程是什么？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "微分几何的学分是多少？本科学生毕业论文（设计）工作流程要多久能办好？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "林国广老师在哪个学院？申请修改学信网信息办理流程要多久能办好？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "文汇楼2栋2218（大阶梯教室）的容量有多大？本科学生放弃辅修或辅修类型变更办理流程的审核周期是多久？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "王普明老师的邮箱是多少？如何办理学生毕业审核申请学分认定办理流程？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1506的容量有多大？本科学生放弃辅修或辅修类型变更办理流程的办理流程是什么？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "格物楼2栋2306的容量有多大？申请学历或学位证明材料办理流程的具体步骤有哪些？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "信息学院的官方网址是什么？本科学生毕业论文（设计）工作流程办理时常见的问题有哪些？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "丁海燕老师在哪个学院？毕业证、学位证补换发流程在哪里可以申请？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "何臻力老师的邮箱是多少？调停课申请流程是否可以代办？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "李震雄老师的职称是什么？我想了解一下临时使用教室申请流程。",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下汪军老师。在哪里可以查到毕业证、学位证遗失补办证明书流程的进度？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "高等数学B（2）的学分是多少？在哪里可以查到成绩单、学籍证明打印办理流程的进度？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "信息学院的官方网址是什么？在哪里可以查到实践教学科项目经费报销流程的进度？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "张艳老师在哪个学院？学生申请课程免听办理流程是否可以代办？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "力行楼3402的容量有多大？实践教学科项目经费报销流程需要导师签字吗？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "文渊楼314的容量有多大？请问云南大学领取本科学历学位证书流程是否有限定时间？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "力行楼2406的容量有多大？补办学生证流程的具体步骤有哪些？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "张璇老师的职称是什么？大学生创新创业训练项目工作流程要多久能办好？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "Python语言程序设计实践是谁教的？学生申请课程缓考办理流程的办理流程是什么？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下明梅老师。学生申请课程免修办理流程的具体步骤有哪些？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "谷懿老师的邮箱是多少？本科学生放弃辅修或辅修类型变更办理流程是否可以代办？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "信息学院的官方网址是什么？补办学生证流程在哪里可以申请？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "周玉珏老师的邮箱是多少？实践教学科项目经费报销流程是否可以线上办理？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下黄光能老师。学生毕业审核申请学分认定办理流程的审核周期是多久？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下沈勇老师。毕业证、学位证遗失补办证明书流程办理时常见的问题有哪些？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "谢汝生老师在哪个学院？实践教学科项目经费报销流程需要哪些材料？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "刘晓非老师在哪个学院？本科学生放弃辅修或辅修类型变更办理流程是否可以代办？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "保利勇老师在哪个学院？申请修改学信网信息办理流程的审核周期是多久？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "软件学院的官方网址是什么？补办学生证流程的办理流程是什么？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "梁虹老师的邮箱是多少？请问教师办理成绩录入延期、成绩录入系数更改流程是否有限定时间？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "格物楼2栋2104的容量有多大？补办学生证流程要多久能办好？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "柏正尧老师的联系方式是什么？如何办理调停课申请流程？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "软件工程实训 (初级)的学分是多少？学生申请课程缓考办理流程的具体步骤有哪些？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "金钊老师的职称是什么？临时使用教室申请流程是否可以代办？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "数字媒体技术实训(初级)的学分是多少？毕业证、学位证遗失补办证明书流程是否可以代办？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "计算机图形学的学分是多少？申请学历或学位证明材料办理流程在哪里可以申请？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "专业导学课的学分是多少？毕业证、学位证补换发流程的办理流程是什么？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "程序设计是谁教的？成绩单、学籍证明打印办理流程要多久能办好？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "软件学院的官方网址是什么？请问毕业证、学位证补换发流程是否有限定时间？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下王标老师。实践教学科项目经费报销流程的具体步骤有哪些？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "林英老师的职称是什么？如何办理临时使用教室申请流程？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "保利勇老师的邮箱是多少？实践教学科项目经费报销流程在哪里可以申请？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1303的容量有多大？教师办理成绩录入延期、成绩录入系数更改流程要多久能办好？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "高等代数 II的学分是多少？教师办理成绩录入延期、成绩录入系数更改流程办理时常见的问题有哪些？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "肖清老师的邮箱是多少？本科学生放弃辅修或辅修类型变更办理流程的流程复杂吗？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "钱文华老师的邮箱是多少？如何办理云南大学领取本科学历学位证书流程？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "梁虹老师的邮箱是多少？云南大学领取本科学历学位证书流程需要哪些材料？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "数据可视化与探索性分析是谁教的？调停课申请流程是否可以代办？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "黄辉老师的邮箱是多少？请问学生申请课程缓考办理流程是否有限定时间？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下葛瑜老师。毕业证、学位证补换发流程在哪里可以申请？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "软件学院的官方网址是什么？学生申请课程免听办理流程办理时常见的问题有哪些？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "格物楼3栋3510（数统学院）的容量有多大？成绩单、学籍证明打印办理流程的具体步骤有哪些？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "概率论与数理统计B是谁教的？申请学历或学位证明材料办理流程需要导师签字吗？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "李伟东老师的联系方式是什么？学生申请课程缓考办理流程的具体步骤有哪些？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1504的容量有多大？毕业证、学位证遗失补办证明书流程办理时常见的问题有哪些？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "介绍一下段清老师。实践教学科项目经费报销流程是否可以代办？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "软件学院的官方网址是什么？如何办理教师办理成绩录入延期、成绩录入系数更改流程？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "数字信号处理实验是谁教的？学生申请课程免听办理流程的办理流程是什么？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "黄光能老师的职称是什么？学生申请课程缓考办理流程在哪里可以申请？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "数学建模与实验是谁教的？毕业证、学位证补换发流程需要哪些材料？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "韦平老师的邮箱是多少？我想了解一下大学生创新创业训练项目工作流程。",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "数学分析（2）是谁教的？实践教学科项目经费报销流程需要导师签字吗？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "丁海燕老师的邮箱是多少？学生毕业审核申请学分认定办理流程是否可以线上办理？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "音乐美学（二）的学分是多少？请问申请学历或学位证明材料办理流程是否有限定时间？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "格物楼2栋2407的容量有多大？我想了解一下大学生创新创业训练项目工作流程。",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "李海老师的邮箱是多少？本科学生毕业论文（设计）工作流程在哪里可以申请？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "计算机网络的学分是多少？学生毕业审核申请学分认定办理流程的办理流程是什么？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "杨汉春老师的职称是什么？云南大学领取本科学历学位证书流程需要导师签字吗？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "胡盛老师的邮箱是多少？本科学生毕业论文（设计）工作流程在哪里可以申请？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "张云春老师在哪个学院？申请修改学信网信息办理流程的具体步骤有哪些？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "曹春华老师的联系方式是什么？我想了解一下毕业证、学位证遗失补办证明书流程。",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "计算机组成原理实验是谁教的？成绩单、学籍证明打印办理流程需要哪些材料？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "周建军老师的职称是什么？学生申请课程免听办理流程在哪里可以申请？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "信息学院的官方网址是什么？学生申请课程免听办理流程的办理流程是什么？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "周小兵老师的职称是什么？本科学生放弃辅修或辅修类型变更办理流程是否可以代办？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "梁虹老师的联系方式是什么？学生申请课程缓考办理流程要多久能办好？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "集成电路设计导论的学分是多少？实践教学科项目经费报销流程需要导师签字吗？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1506的容量有多大？学生申请课程免修办理流程需要哪些材料？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "软件学院的官方网址是什么？实践教学科项目经费报销流程在哪里可以申请？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "专业导学课是谁教的？在哪里可以查到学生申请课程缓考办理流程的进度？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "网络协议分析与安全是谁教的？学生申请课程免修办理流程的具体步骤有哪些？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "数学与统计学院的官方网址是什么？成绩单、学籍证明打印办理流程的办理流程是什么？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "多媒体程序设计是谁教的？学生毕业审核申请学分认定办理流程的审核周期是多久？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "格物楼1栋1508的容量有多大？临时使用教室申请流程的审核周期是多久？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "李华光老师的职称是什么？在哪里可以查到申请修改学信网信息办理流程的进度？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "软件学院1429的容量有多大？申请学历或学位证明材料办理流程的流程复杂吗？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "抽样技术与应用实验的学分是多少？学生申请课程缓考办理流程是否可以线上办理？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "Python语言程序设计实践是谁教的？本科学生毕业论文（设计）工作流程在哪里可以申请？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "葛瑜老师的联系方式是什么？申请学历或学位证明材料办理流程的具体步骤有哪些？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "数学与统计学院的官方网址是什么？我想了解一下本科学生毕业论文（设计）工作流程。",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "李浩老师在哪个学院？请问本科学生放弃辅修或辅修类型变更办理流程是否有限定时间？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    },
+    {
+        "question": "何乐生老师的邮箱是多少？如何办理临时使用教室申请流程？",
+        "intention": "neo4j+vector",
+        "level": "hard",
+        "answer": ""
+    }
+]

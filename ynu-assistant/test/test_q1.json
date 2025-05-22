@@ -1,0 +1,42 @@
+[
+  {
+    "question": "介绍一下郭竞老师。我想了解一下临时使用教室申请流程。",
+    "intention": "neo4j+vector",
+    "level": "hard",
+    "answer": "郭竞老师是云南大学的讲师，邮箱为：guo_jing@ynu.edu.cn。\n\n临时使用教室申请流程的详细说明如下：\n![图示](https://procedure-1319755979.cos.ap-chengdu.myqcloud.com/16.png)",
+    "errors": [],
+    "routing_result": {
+      "question": [
+        "介绍一下郭竞老师。",
+        "我想了解一下临时使用教室申请流程。"
+      ],
+      "type": [
+        "neo4j",
+        "vector"
+      ]
+    },
+    "neo4j": [
+      {
+        "question": "介绍一下郭竞老师。",
+        "content": [
+          {
+            "p": {
+              "address": "",
+              "name": "郭竞",
+              "title": "讲师",
+              "email": "guo_jing@ynu.edu.cn"
+            }
+          }
+        ],
+        "cypher": "MATCH (p:Person {name: '郭竞'})\nRETURN p"
+      }
+    ],
+    "vector": [
+      {
+        "question": "我想了解一下临时使用教室申请流程。",
+        "content": "详细流程请参考下图：https://procedure-1319755979.cos.ap-chengdu.myqcloud.com/16.png"
+      }
+    ],
+    "open": []
+  }
+]

@@ -1,0 +1,28 @@
+{
+    "custom_id": "request-1", 
+    "method": "POST",
+    "url": "/v4/chat/completions",
+    "body": {
+        "model": "glm-4v",
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一个数据增强专家，请根据输入的文本"
+            },
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "请描述图中的内容。"
+                    },
+                    {
+                        "type": "image_url",
+                        "image_url": {"url": "url地址或base64编码"}
+                    }
+                ]
+            }
+        ],
+        "max_tokens": 1000
+    }
+  }
