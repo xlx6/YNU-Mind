@@ -1,20 +1,33 @@
 # 🎯 基于多Agent与GraphRAG的校园智能助手
 
-
-
 ## 📸 界面预览(移动端)
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
-  <div style="flex: 1; min-width: 300px;">
-    <img src="./images/1.png" alt="登录界面" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-    <p align="center" style="margin-top: 10px; color: #666; font-size: 0.9em;">图1：系统登录界面</p>
-  </div>
-  
-  <div style="flex: 1; min-width: 300px;">
-    <img src="./images/2.png" alt="主界面" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-    <p align="center" style="margin-top: 10px; color: #666; font-size: 0.9em;">图2：智能问答主界面</p>
-  </div>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./images/1.png" alt="系统主界面" width="200" />
+      <p style="color: #666; font-size: 0.9em;">图1：系统主界面</p>
+    </td>
+    <td align="center">
+      <img src="./images/2.png" alt="问答展示1" width="200" />
+      <p style="color: #666; font-size: 0.9em;">图2：问答展示1</p>
+    </td>
+    <td align="center">
+      <img src="./images/3.png" alt="问答展示2" width="200" />
+      <p style="color: #666; font-size: 0.9em;">图3：问答展示2</p>
+    </td>
+    <td align="center">
+      <img src="./images/4.png" alt="问答展示3" width="200" />
+      <p style="color: #666; font-size: 0.9em;">图4：问答展示3</p>
+    </td>
+  </tr>
+</table>
+
 </div>
+
 
 ## 📂 项目结构
 
@@ -44,7 +57,7 @@ cd YNU-Mind
 ```bash
 # 在Neo4j bin 目录下双击cypher-shell.bat
 # 输入以下命令创建数据库
-source ./data/beforeCourses.cypher
+source ./data/all_2_.cypher
 ```
 3. 环境变量
 ```bash
