@@ -57,7 +57,7 @@ cd YNU-Mind
 ```bash
 # 在Neo4j bin 目录下双击cypher-shell.bat
 # 输入以下命令创建数据库
-source ./data/all_2_.cypher
+source ./docs/all_2_.cypher
 ```
 3. 环境变量
 ```bash
